@@ -525,3 +525,27 @@ main .recent-orders a {
     font-weight: 600;
 }
 
+/* =========== Media queries ======= */
+
+@media screen and (max-width: 1200px) {
+    .container {
+        width: 94%;
+        grid-template-columns: 7rem auto 23rem;
+    }
+
+    aside .logo h2{
+        display: none;
+    }
+
+    aside .sidebar h3 {
+        display: none;
+    }
+
+    aside .sidebar a {
+        width: 5.6rem;
+    }
+
+    
+}
+
+
