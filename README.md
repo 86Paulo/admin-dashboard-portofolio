@@ -1,2 +1,2 @@
 # admin-dashboard-portofolio
- admin-dashboard exercise
+ admin-dashboard static page
